@@ -1,0 +1,30 @@
+a {
+    color: #02779E;
+}
+
+a:hover {
+    color: #02779E;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #D37123;
+}
+
+.header {
+    text-align: center;
+    height: 200px;
+    background-color: #C36741;
+    margin-bottom: 100px;
+}
+
+.footer {
+    text-align: center;
+    height: 200px;
+    background-color: #C36741;
+    margin-top: 100px;
+}
+
+.footer-text {
+    padding-top: 60px;
+}
