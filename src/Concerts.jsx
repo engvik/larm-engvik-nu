@@ -35,20 +35,27 @@ class Concerts extends React.Component {
       const venues = this.renderVenues(day.venues);
 
       return (
-        <div className="day" key={day.day}>
+        <div key={day.day}>
           <h2>{day.day}</h2>
-          {venues}
+          <div id={day.day} className="day">
+            {venues}
+          </div>
         </div>
       );
     });
   }
 
   render() {
-    const concertData = this.renderConcerts();
+    const schedule = this.renderConcerts();
+    const dayLinks = concertData.map((day, i) => {
+      console.log(day);
+      return <a href={`#${day.day}`} key={`link-${day.day}-${i}`} className="day-split">{day.day}</a>;
+    });
 
     return (
       <div className="concerts">
-        {concertData}
+        {dayLinks}
+        {schedule}
       </div>
     );
   }

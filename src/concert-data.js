@@ -422,7 +422,27 @@ const concertData = [
             time: "17:00 - 23:30"
           },
         ]
-      }
+      },
+      {
+        title: "ARC #11",
+        url: "https://www.facebook.com/events/1448226471876428/",
+        venue: "St Edmund's Church",
+        info: "Fri alder. Mellom 17 og 19 i kirka i Møllergata. Kun 100 plasser.",
+        concerts: [
+          {
+            name: "Lars Horntveth & Øystein Moen",
+            time: ""
+          },
+          {
+            name: "Simen Følstad Nilsen",
+            time: ""
+          },
+          {
+            name: "Axel Skalstad",
+            time: ""
+          },
+        ]
+      },
     ]
   }
 ]
