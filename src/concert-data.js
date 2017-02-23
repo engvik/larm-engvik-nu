@@ -227,13 +227,13 @@ const concertData = [
         ]
       },
       {
-        title: "Off:Larm - Atomic Presenterer",
-        url: "https://www.facebook.com/tiltoslo/",
+        title: "Atomic Soul Night",
+        url: "https://www.facebook.com/events/1278531432193927/",
         venue: "Tilt",
         info: "Aldersgrense 23 år.",
         concerts: [
           {
-            name: "Liver Wohlbrugger",
+            name: "Oliver Hohlbrugger",
             time: "19:00"
           },
           {
@@ -243,10 +243,6 @@ const concertData = [
           {
             name: "Hkeem",
             time: "21:00"
-          },
-          {
-            name: "Ezzari",
-            time: "21:20"
           },
           {
             name: "PRTLVX",
