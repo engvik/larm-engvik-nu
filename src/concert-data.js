@@ -103,6 +103,30 @@ const concertData = [
             time: "23:30"
           },
         ]
+      },
+      {
+        title: "Tik & At Home off:Larm showcase",
+        url: "https://www.facebook.com/events/1876180592661304/",
+        venue: "Verkstedet",
+        info: "Fra 20:30. Aldersgrense 20 år.",
+        concerts: [
+          {
+            name: "Kongle",
+            time: ""
+          },
+          {
+            name: "Peter Estdahl",
+            time: ""
+          },
+          {
+            name: "Marinius",
+            time: ""
+          },
+          {
+            name: "Great People",
+            time: ""
+          },
+        ]
       }
     ]
   },
