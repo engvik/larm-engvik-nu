@@ -32,7 +32,11 @@ const config = {
     ]
   },
   plugins: [
-    new ExtractTextPlugin({ filename: 'style.css', allChunks: true })
+    new ExtractTextPlugin({ filename: 'style.css', allChunks: true }),
+    new webpack.optimize.UglifyJsPlugin({
+        minimize: true,
+        compressor: { warnings: false }
+    }),
   ]
 };
 

@@ -77,13 +77,13 @@ const concertData = [
         ]
       },
       {
-        title: "Off:Larm - DC Presenterer",
-        url: "https://www.facebook.com/tiltoslo/",
+        title: "DC by:larm spesial",
+        url: "https://www.facebook.com/events/1395941777095104/",
         venue: "Tilt",
         info: "Aldersgrense 23 år.",
         concerts: [
           {
-            name: "Tuva Band",
+            name: "Tuva and",
             time: "21:15"
           },
           {
@@ -348,13 +348,13 @@ const concertData = [
         ]
       },
       {
-        title: "Off:Larm - Fysisk Format Presenterer",
-        url: "https://www.facebook.com/tiltoslo/",
+        title: "Fysisk Format Showcase",
+        url: "https://www.facebook.com/events/486887471699271/",
         venue: "Tilt",
         info: "Aldersgrense 23 år.",
         concerts: [
           {
-            name: "IEATHEARTATTACKS",
+            name: "Ieatheartattacks",
             time: "19:00"
           },
           {
