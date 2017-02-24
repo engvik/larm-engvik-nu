@@ -48,7 +48,6 @@ class Concerts extends React.Component {
   render() {
     const schedule = this.renderConcerts();
     const dayLinks = concertData.map((day, i) => {
-      console.log(day);
       return <a href={`#${day.day}`} key={`link-${day.day}-${i}`} className="day-split">{day.day}</a>;
     });
 
