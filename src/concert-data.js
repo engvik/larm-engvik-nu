@@ -47,9 +47,13 @@ const concertData = [
             time: "21:15 - 22:00"
           },
           {
-            name: "TBA",
-            time: "22:15 - 23:00"
+            name: "Still Changing",
+            time: "22:15 - 22:50"
           },
+          {
+            name: "The Reptilian Brain",
+            time: "23:00 - 23:30"
+          }
         ]
       },
       {
