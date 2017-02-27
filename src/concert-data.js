@@ -224,6 +224,26 @@ const concertData = [
             time: "17:00 - 23:30"
           },
         ]
+      },
+      {
+        title: "Kjøkkenfest",
+        url: "https://www.facebook.com/events/1781934178793294/",
+        venue: "Hvaskjer",
+        info: "Konserter fra 19.",
+        concerts: [
+          {
+            name: "Lestrange",
+            time: ""
+          },
+          {
+            name: "Elise Måsvær",
+            time: ""
+          },
+          {
+            name: "Simen Rem",
+            time: ""
+          },
+        ]
       }
     ]
   },
