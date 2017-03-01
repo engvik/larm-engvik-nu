@@ -491,6 +491,150 @@ const concertData = [
           },
         ]
       },
+      {
+        title: "Brylarm gatefest",
+        url: "http://bylarm.no/music/news/gratis-gatefest-i-torggata-og-brylarm-pa-lordag/",
+        venue: "Torggata",
+        info: "Konserter mellom 15 og 19 på forskjellige steder i Torggata.",
+        concerts: [
+          {
+            name: "African Sunz",
+            time: ""
+          },
+          {
+            name: "Young Cisto",
+            time: ""
+          },
+          {
+            name: "Ida Dillan",
+            time: ""
+          },
+          {
+            name: "Kine Hjeltnes",
+            time: ""
+          },
+          {
+            name: "Espen",
+            time: ""
+          },
+          {
+            name: "For The Love of Ivy",
+            time: ""
+          },
+          {
+            name: "Himmelhøyt",
+            time: ""
+          },
+          {
+            name: "IEatHeartAttacks",
+            time: ""
+          },
+          {
+            name: "Kambodsja",
+            time: ""
+          },
+          {
+            name: "Skalla",
+            time: ""
+          },
+          {
+            name: "Iffy Orbit",
+            time: ""
+          },
+          {
+            name: "Jadudah",
+            time: ""
+          },
+          {
+            name: "Acres Wild",
+            time: ""
+          },
+          {
+            name: "Nelly´s Crush",
+            time: ""
+          },
+          {
+            name: "VÅG",
+            time: ""
+          },
+          {
+            name: "The Harvey Steel Show",
+            time: ""
+          },
+          {
+            name: "Silver Lining",
+            time: ""
+          },
+          {
+            name: "Up Against the Phantom",
+            time: ""
+          },
+          {
+            name: "Irish Waves",
+            time: ""
+          },
+          {
+            name: "Elvic Congolo",
+            time: ""
+          },
+          {
+            name: "Foyn",
+            time: ""
+          },
+          {
+            name: "Hey, Wait",
+            time: ""
+          },
+          {
+            name: "Beharie",
+            time: ""
+          },
+          {
+            name: "Jenny Augusta",
+            time: ""
+          },
+          {
+            name: "Astrid Ekern",
+            time: ""
+          },
+          {
+            name: "Simen Mitlid",
+            time: ""
+          },
+          {
+            name: "Family Values",
+            time: ""
+          },
+          {
+            name: "Svalestup",
+            time: ""
+          },
+          {
+            name: "Marte Røyeng",
+            time: ""
+          },
+          {
+            name: "Tatarius",
+            time: ""
+          },
+          {
+            name: "Selmer",
+            time: ""
+          },
+          {
+            name: "Amber Clouds",
+            time: ""
+          },
+          {
+            name: "Some Feather",
+            time: ""
+          },
+          {
+            name: "Natti",
+            time: ""
+          },
+        ]
+      }
     ]
   }
 ]
