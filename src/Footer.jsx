@@ -9,7 +9,7 @@ class Footer extends React.Component {
           <a href="mailto:lars@engvik.nu">Savner du noe?</a>
           <a href="https://github.com/engvik/larm-engvik-nu">Kode på GitHub</a>
         </p>
-        <a href="//larm.engvik.nu/2016">2016</a> | <a href="//larm.engvik.nu/2015">2015</a> | <a href="//larm.engvik.nu/2014">2014</a>
+        <a href="/2017">2017</a> | <a href="/2016">2016</a> | <a href="/2015">2015</a> | <a href="/2014">2014</a>
       </div>
     );
   }

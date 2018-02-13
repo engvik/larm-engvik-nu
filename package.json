@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/engvik/larm-engvik-nu#readme",
   "dependencies": {
-    "babel-core": "^6.26.01",
+    "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
