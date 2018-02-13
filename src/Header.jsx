@@ -6,7 +6,7 @@ class Header extends React.Component {
     return (
       <div className="header">
         <h1>Free:Larm</h1>
-        <p>01.03 - 04.03</p>
+        <p>01.03 - 03.03</p>
         <p>En oversikt over gratiskonsertene by:Larm-uka.</p>
       </div>
     );
