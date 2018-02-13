@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.concerts {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+
+  h2 {
+    margin: 25px 0;
+  }
+
+  h3 {
+    margin: 15px 0;
+  }
+
+  .day-split {
+    font-size: 20px;
+    padding-right: 20px;
+  }
+
+  .day {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: stretch;
+    max-width: 980px;
+
+    @media (min-width: 480px) {
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+
+    .venue {
+      margin: 10px 0;
+      flex: 1 0 50%;
+
+      p {
+        padding-bottom: 15px;
+      }
+
+      .slot {
+        span {
+          padding-right: 10px;
+        }
+      }
+    }
+  }
+}
+
+a {
+    color: #02779E;
+}
+
+a:hover {
+    color: #02779E;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #D37123;
+}
+
+.header {
+    text-align: center;
+    height: 200px;
+    background-color: #C36741;
+    padding-top: 50px;
+}
+
+.footer {
+    text-align: center;
+    height: 200px;
+    background-color: #C36741;
+    margin-top: 100px;
+
+    .footer-text {
+      padding-top: 60px;
+      padding-bottom: 10px;
+
+      a {
+        display: block;
+        padding-top: 10px;
+      }
+    }
+}
