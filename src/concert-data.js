@@ -30,6 +30,64 @@
 
 const concertData = [
   {
+    day: "Onsdag",
+    venues: [
+      {
+        title: "Black Pop Records off:larm night!",
+        url: "https://www.facebook.com/events/1706702959390055/",
+        venue: "Tilt",
+        info: "",
+        concerts: [
+          {
+            name: "Geetar",
+            time: "20:00"
+          },
+          {
+            name: "Rick Ashtray",
+            time: "21:00"
+          },
+          {
+            name: "Mats Wawa",
+            time: "22:00"
+          },
+          {
+            name: "Wet Dreams",
+            time: "23:00"
+          },
+        ]
+      }
+    ]
+  },
+  {
+    day: "Torsdag",
+    venues: [
+      {
+        title: "Ghost Town presenterer off:Larm",
+        url: "https://www.facebook.com/events/169928030396680/",
+        venue: "Uhørt",
+        info: "",
+        concerts: [
+          {
+            name: "NINV",
+            time: ""
+          },
+          {
+            name: "Majorleap",
+            time: ""
+          },
+          {
+            name: "Clix",
+            time: ""
+          },
+          {
+            name: "Arthur Stulien",
+            time: ""
+          }
+        ]
+      },
+    ]
+  },
+  {
     day: "Lørdag",
     venues: [
       {
