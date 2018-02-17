@@ -62,6 +62,13 @@ const concertData = [
     day: "Torsdag",
     venues: [
       {
+        title: "Jansen Records off:larm night!",
+        url: "https://www.facebook.com/events/792468527603349/",
+        venue: "Tilt",
+        info: "Seks band fra 18:00 - 00:00. Hemmelig hvem som spiller.",
+        concerts: []
+      },
+      {
         title: "Ghost Town presenterer off:Larm",
         url: "https://www.facebook.com/events/169928030396680/",
         venue: "Uhørt",
@@ -88,8 +95,44 @@ const concertData = [
     ]
   },
   {
+    day: "Fredag",
+    venues: [
+      {
+        title: "Young Aspiring Professionals m/venner",
+        url: "https://www.facebook.com/events/568725210163574/",
+        venue: "Tilt",
+        info: "YAP Records pønsker på noe lurt. Hemmelig! ",
+        concerts: []
+      },
+    ]
+  },
+  {
     day: "Lørdag",
     venues: [
+      {
+        title: "Fysisk Format Showcase",
+        url: "https://www.facebook.com/events/1999832780057470/",
+        venue: "Tilt",
+        info: "",
+        concerts: [
+          {
+            name: "Duvel",
+            time: ""
+          },
+          {
+            name: "Haraball",
+            time: ""
+          },
+          {
+            name: "Spurv",
+            time: ""
+          },
+          {
+            name: "Hilma Nikolaisen",
+            time: ""
+          },
+        ]
+      },
       {
         title: "Apollon Records presenterer off:Larm",
         url: "https://www.facebook.com/events/142193899782039/",
@@ -163,6 +206,30 @@ const concertData = [
           {
             name: "Bøler",
             time: ""
+          }
+        ]
+      },
+      {
+        title: "RØØR:Larm",
+        url: "https://www.facebook.com/events/1008843519253357/",
+        venue: "RØØR",
+        info: "",
+        concerts: [
+          {
+            name: "Bianca Steck",
+            time: "20:00"
+          },
+          {
+            name: "Anders Johnsen",
+            time: "21:00"
+          },
+          {
+            name: "Mark Steiner & His Problems",
+            time: "22:00"
+          },
+          {
+            name: "Mandalai Lamas",
+            time: "23:00"
           }
         ]
       }
