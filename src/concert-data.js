@@ -99,11 +99,11 @@ const concertData = [
             time: "21:00"
           },
           {
-            name: "Æsthetica",
+            name: "Syden",
             time: "22:00"
           },
           {
-            name: "Syden",
+            name: "Æsthetica",
             time: "23:00"
           },
         ]
