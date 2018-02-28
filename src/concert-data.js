@@ -55,6 +55,58 @@ const concertData = [
             time: "23:00"
           },
         ]
+      },
+      {
+        title: "Agenturet & Tik Records: Showcase",
+        url: "https://www.facebook.com/events/219776265256639/",
+        venue: "Ingensteds",
+        info: "",
+        concerts: [
+          {
+            name: "Howlin' Sun",
+            time: ""
+          },
+          {
+            name: "Dobbeltgjenger",
+            time: ""
+          },
+          {
+            name: "Utakk",
+            time: ""
+          },
+          {
+            name: "Johannes Holtmon",
+            time: ""
+          },
+          {
+            name: "Marinius ",
+            time: ""
+          },
+        ]
+      },
+      {
+        title: "Diger Distro Festkveld",
+        url: "https://www.facebook.com/events/2029650560395499/",
+        venue: "MONO",
+        info: "",
+        concerts: [
+          {
+            name: "The Secret Sound of Dreamwalkers",
+            time: "20:00"
+          },
+          {
+            name: "Closing Eyes",
+            time: "21:00"
+          },
+          {
+            name: "Æsthetica",
+            time: "22:00"
+          },
+          {
+            name: "Syden",
+            time: "23:00"
+          },
+        ]
       }
     ]
   },
@@ -99,10 +151,91 @@ const concertData = [
     venues: [
       {
         title: "Young Aspiring Professionals m/venner",
-        url: "https://www.facebook.com/events/568725210163574/",
+        url: "https://www.facebook.com/events/895324880648279/",
         venue: "Tilt",
-        info: "YAP Records pønsker på noe lurt. Hemmelig! ",
-        concerts: []
+        info: "De to siste på Arkade i kjelleren på Tilt.",
+        concerts: [
+          {
+            name: "Baertur (DJ-set)",
+            time: "19:00"
+          },
+          {
+            name: "Ungdomskulen (DJ-set)",
+            time: "20:00"
+          },
+          {
+            name: "No States (DJ-set)",
+            time: "21:00"
+          },
+          {
+            name: "Harald Fossberg (DJ-set)",
+            time: "22:00"
+          },
+          {
+            name: "DJ Gymbag",
+            time: "22:00"
+          },
+          {
+            name: "Datarock",
+            time: "00:00"
+          },
+        ]
+      },
+      {
+        title: "Off:Larm",
+        url: "https://www.facebook.com/events/418048075283427/",
+        venue: "Postkontoret",
+        info: "",
+        concerts: [
+          {
+            name: "Einar Flaa",
+            time: "19:00"
+          },
+          {
+            name: "Moviestar",
+            time: "20:00"
+          },
+          {
+            name: "Kompass",
+            time: "21:00"
+          },
+          {
+            name: "F​riendship",
+            time: "22:00"
+          },
+        ],
+      },
+      {
+        title: "off:Larm",
+        url: "https://www.facebook.com/events/149352829067161/",
+        venue: "Verkstedet",
+        info: "",
+        concerts: [
+          {
+            name: "Jimi Somewhere",
+            time: "22:15"
+          },
+          {
+            name: "Hanne Mjøen",
+            time: "23:15"
+          },
+          {
+            name: "Andreas Wijk",
+            time: "00:15"
+          },
+        ],
+      },
+      {
+        title: "Off:Larm",
+        url: "https://www.facebook.com/events/1875551949186570/",
+        venue: "Cafe Sør",
+        info: "",
+        concerts: [
+          {
+            name: "Lilja // \\ Jan",
+            time: ""
+          },
+        ]
       },
     ]
   },
@@ -217,6 +350,10 @@ const concertData = [
         concerts: [
           {
             name: "Bianca Steck",
+            time: "19:00"
+          },
+          {
+            name: "Trist Pike",
             time: "20:00"
           },
           {
@@ -232,7 +369,51 @@ const concertData = [
             time: "23:00"
           }
         ]
-      }
+      },
+      {
+        title: "Bongolarm med Bosses Bongoband",
+        url: "https://www.facebook.com/events/152578278722730/",
+        venue: "Perestrojka",
+        info: "",
+        concerts: [
+          {
+            name: "Bosses Bongoband",
+            time: ""
+          },
+        ]
+      },
+      {
+        title: "Burn The Man - Forcefed Horsehead - Shaving The Werewolf",
+        url: "https://www.facebook.com/events/1588006181307167/",
+        venue: "Blitz",
+        info: "Nesten gratis, 50 spenn.",
+        concerts: [
+          {
+            name: "Burn The Man",
+            time: ""
+          },
+          {
+            name: "Forcefed Horsehead",
+            time: ""
+          },
+          {
+            name: "Shaving The Werewolf",
+            time: ""
+          },
+        ]
+      },
+      {
+        title: "Off:Larm",
+        url: "https://www.facebook.com/events/2078510795719078/",
+        venue: "Cafe Sør",
+        info: "",
+        concerts: [
+          {
+            name: "Nomzi Kumalo",
+            time: ""
+          },
+        ]
+      },
     ]
   }
 ]
