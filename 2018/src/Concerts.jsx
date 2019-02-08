@@ -5,7 +5,7 @@ import concertData from './concert-data';
 
 class Concerts extends React.Component {
   renderSchedule(schedule) {
-    return schedule.map((slot,i ) => {
+    return schedule.map((slot, i) => {
       return (
         <div className="slot" key={`slot-${i}`}>
           <span>{slot.time}</span>

@@ -1,5 +1,12 @@
 /node_modules
-/public/*.js
-/public/*.css
+/public/js
+/public/js/*.js
+/public/js/*.css
+/public/js/*.edn
+/public/js/cljs-runtime/*.js
+
+.nrepl-port
+.shadow-cljs/*
+
 
 npm-debug.log
