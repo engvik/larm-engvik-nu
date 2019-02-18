@@ -38,7 +38,11 @@
                        {:title "Loyal Blood Records Off:larm labelnight" :venue "Vaterland" :url "https://www.facebook.com/events/487810885083685/" :info ""
                         :concerts [{:name "Death Throne" :time ""}
                                    {:name "Mansters" :time ""}
-                                   {:name "Psykopath" :time ""}]}]}
+                                   {:name "Psykopath" :time ""}]}
+                       {:title "Off:larm" :venue "Postkontoret" :url "https://www.facebook.com/events/393516471213993/" :info ""
+                        :concerts [{:name "Rikke Normann" :time ""}
+                                   {:name "Anton Ruud" :time ""}
+                                   {:name "Kompass" :time ""}]}]}
              {:day "Lørdag"
               :venues [{:title "Brylarm" :venue "Kulturkirken Jakob" :url "https://www.facebook.com/events/300541287479380/" :info ""
                         :concerts [{:name "Oslo Ess" :time ""}
