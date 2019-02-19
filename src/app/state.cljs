@@ -14,15 +14,20 @@
                         :concerts [{:name "Wild Fauna" :time ""}
                                    {:name "TAPE TRASH" :time ""}]}]}
              {:day "Torsdag"
-                        :venues [{:title "Jansen Records/Pekula/Blanca Records" :venue "Tilt" :url "https://www.facebook.com/events/2296681343698920/" :info ""
-                        :concerts [{:name "Kongle" :time "19:00"}
-                                   {:name "Birgitta Alida" :time "20:00"}
-                                   {:name "TBA (US/NO)" :time "20:30"}
-                                   {:name "Arthur Kay" :time "21:00"}
-                                   {:name "Louien" :time "21:30"}
-                                   {:name "Orions Belte" :time "22:00"}
-                                   {:name "TBA" :time "23:00"}
-                                   {:name "Amgala Temple" :time "00:00"}]}]}
+                :venues [{:title "Jansen Records/Pekula/Blanca Records" :venue "Tilt" :url "https://www.facebook.com/events/2296681343698920/" :info ""
+                          :concerts [{:name "Kongle" :time "19:00"}
+                                     {:name "Birgitta Alida" :time "20:00"}
+                                     {:name "TBA (US/NO)" :time "20:30"}
+                                     {:name "Arthur Kay" :time "21:00"}
+                                     {:name "Louien" :time "21:30"}
+                                     {:name "Orions Belte" :time "22:00"}
+                                     {:name "TBA" :time "23:00"}
+                                     {:name "Amgala Temple" :time "00:00"}]}
+                         {:title "Bru:Larm" :venue "Vaterland" :url "https://www.facebook.com/events/1186660731493711/?event_time_id=1186660738160377" :info ""
+                          :concerts [{:name "Hudkreft" :time "19:30"}
+                                     {:name "Sorgen" :time "20:30"}
+                                     {:name "Lazy Queen" :time "21:30"}
+                                     {:name "The New Death Cult" :time "22:30"}]}]}
              {:day "Fredag"
               :venues [{:title "Apollon Records Off:Larm Showcase" :venue "Uhørt" :url "https://www.facebook.com/events/244316283123036/" :info ""
                         :concerts [{:name "Deathcrush" :time ""}
@@ -35,10 +40,10 @@
                                    {:name "Ludvig The Band" :time "20:00"}
                                    {:name "Nellys Crush" :time "21:00"}
                                    {:name "Brut Booglaoo" :time "22:00"}]}
-                       {:title "Loyal Blood Records Off:larm labelnight" :venue "Vaterland" :url "https://www.facebook.com/events/487810885083685/" :info ""
-                        :concerts [{:name "Death Throne" :time ""}
-                                   {:name "Mansters" :time ""}
-                                   {:name "Psykopath" :time ""}]}
+                       {:title "Bru:Larm" :venue "Vaterland" :url "https://www.facebook.com/events/1186660731493711/?event_time_id=1186660741493710" :info ""
+                        :concerts [{:name "Psykopath" :time "20:30"}
+                                   {:name "Mansters" :time "21:30"}
+                                   {:name "Death Throne" :time "22:30"}]}
                        {:title "Off:larm" :venue "Postkontoret" :url "https://www.facebook.com/events/393516471213993/" :info ""
                         :concerts [{:name "Rikke Normann" :time ""}
                                    {:name "Anton Ruud" :time ""}
@@ -51,8 +56,11 @@
                                    {:name "Susanna & David Wallumrød" :time ""}
                                    {:name "Magnus Grønneberg" :time ""}]}
                         {:title "Diger Distro Festkveld" :venue "Tilt" :url "https://www.facebook.com/events/2280054258928515/" :info ""
-                        :concerts [{:name "Pieces of Juno" :time ""}
-                                   {:name "Espen T. Hangård" :time ""}
-                                   {:name "Listen to Girl" :time ""}
-                                   {:name "KitFai" :time ""}
-                                   {:name "Sex Judas" :time ""}]}]}]}))
+                         :concerts [{:name "Pieces of Juno" :time ""}
+                                    {:name "Espen T. Hangård" :time ""}
+                                    {:name "Listen to Girl" :time ""}
+                                    {:name "KitFai" :time ""}
+                                    {:name "Sex Judas" :time ""}]}
+                        {:title "Bru:Larm" :venue "Vaterland" :url "https://www.facebook.com/events/1186660731493711/?event_time_id=1186660734827044" :info ""
+                         :concerts [{:name "Agenda" :time "21:30"}
+                                    {:name "Timeworn" :time "22:30"}]}]}]}))
