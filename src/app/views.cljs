@@ -52,15 +52,7 @@
     [:p {:class "footer-text"}
       [:a {:href "mailto:lars@engvik.nu"} "Savner du noe?"]
       [:a {:href "https://github.com/engvik/larm-engvik-nu"} "Kode på GitHub"]]
-    [:a {:href "/2018"} "2018"]
-    [:span " | "]
-    [:a {:href "/2017"} "2017"]
-    [:span " | "]
-    [:a {:href "/2016"} "2016"]
-    [:span " | "]
-    [:a {:href "/2015"} "2015"]
-    [:span " | "]
-    [:a {:href "/2014"} "2014"]])
+    [:span "Siden 2014!"]])
 
 (defn app
   []
