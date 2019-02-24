@@ -63,4 +63,9 @@
                                     {:name "Sex Judas" :time ""}]}
                         {:title "Bru:Larm" :venue "Vaterland" :url "https://www.facebook.com/events/1186660731493711/?event_time_id=1186660734827044" :info ""
                          :concerts [{:name "Agenda" :time "21:30"}
-                                    {:name "Timeworn" :time "22:30"}]}]}]}))
+                                    {:name "Timeworn" :time "22:30"}]}
+                        {:title "Karisma Records Off:Larm" :venue "Uhørt" :url "https://www.facebook.com/events/554063654999944/" :info ""
+                         :concerts [{:name "Wobbler" :time ""}
+                                    {:name "Oak" :time ""}
+                                    {:name "Fervent Mind" :time ""}
+                                    {:name "Superlynx" :time ""}]}]}]}))
