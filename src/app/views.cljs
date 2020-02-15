@@ -5,7 +5,7 @@
   []
   [:div {:class "header"}
     [:h1  "Free:Larm"]
-    [:p "27.02 - 02.03"]
+    [:p "26.02 - 29.02"]
     [:p "En oversikt over gratiskonsertene by:Larm-uka."]])
 
 (defn <show>
