@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/engvik/larm-engvik-nu#readme",
   "devDependencies": {
-    "shadow-cljs": "^2.8.23"
+    "shadow-cljs": "2.7.28"
   },
   "dependencies": {
     "create-react-class": "^15.6.3",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
   }
 }
