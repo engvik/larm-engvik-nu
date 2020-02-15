@@ -1,0 +1,27 @@
+{
+  "name": "larm-engvik-nu",
+  "version": "1.0.0",
+  "description": "larm.engvik.nu - List of free concerts during the by:Larm-week.",
+  "scripts": {
+    "compile": "shadow-cljs release app",
+    "dev": "npx shadow-cljs watch app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engvik/larm-engvik-nu.git"
+  },
+  "author": "Lars Jansøn Engvik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/engvik/larm-engvik-nu/issues"
+  },
+  "homepage": "https://github.com/engvik/larm-engvik-nu#readme",
+  "devDependencies": {
+    "shadow-cljs": "^2.8.23"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
