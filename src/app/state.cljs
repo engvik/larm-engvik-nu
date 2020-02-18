@@ -9,8 +9,17 @@
                                    {:name "Magic Mirror" :time ""}
                                    {:name "Birgitta Alida" :time ""}]}]}
              {:day "Torsdag"
-                :venues [{:title "Jansen Records Showcase" :venue "Tilt" :url "https://www.facebook.com/events/500744453979063/" :info "TBA"
-                          :concerts []}
+                :venues [{:title "Jansen Records Showcase" :venue "Tilt" :url "https://www.facebook.com/events/500744453979063/" :info ""
+                          :concerts [{:name "Kropp" :time "18:30"}
+                                   {:name "Vegar & Ivar Band" :time "19:15"}
+                                   {:name "Closing Eyes" :time "20:00"}
+                                   {:name "Darling West" :time "20:45"}
+                                   {:name "Mall Girl" :time "12:30"}
+                                   {:name "Mats Wawa" :time "22:15"}
+                                   {:name "Kefeider" :time "23:00"}
+                                   {:name "The Modern Times" :time "23:45"}
+                                   {:name "Soft Ride" :time "00:30"}
+                                   {:name "Torgeir Waldemar" :time "01:15"}]}
                         {:title "Svenska:Larm" :venue "Uhørt" :url "https://www.facebook.com/events/229804888029798/" :info ""
                           :concerts [{:name "TAPE TRASH" :time "18:00"}
                                      {:name "Ljushuvud" :time "18:50"}
